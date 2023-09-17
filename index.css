@@ -1,0 +1,13 @@
+img {
+    width: 300px;
+    height: 150px;
+    border-width: 2px;
+    border-color: black;
+}
+
+.ganteng {
+    width: 300px;
+    height: 150px;
+    background-image: url("Foto/Thumbnail BAE.jpg");
+
+}
